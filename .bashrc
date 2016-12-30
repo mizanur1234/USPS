@@ -6,7 +6,7 @@ alias gt='git diff'
 alias ga='git add .'
 alias gp='git pull'
 alias gf='git fetch'
-
+alias gc-"git checkout"
 #open file or folder with sublime text....
 alias sublime='"C:/Program Files/Sublime Text 3/sublime_text.exe"'
 
