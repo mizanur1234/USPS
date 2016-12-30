@@ -6,8 +6,12 @@ alias gt='git diff'
 alias ga='git add .'
 alias gp='git pull'
 alias gf='git fetch'
+<<<<<<< HEAD
 alias gc='git checkout'
 
+=======
+alias gc-"git checkout"
+>>>>>>> Selenium-USPS-Project
 #open file or folder with sublime text....
 alias sublime='"C:/Program Files/Sublime Text 3/sublime_text.exe"'
 
