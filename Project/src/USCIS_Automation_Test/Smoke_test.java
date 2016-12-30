@@ -16,6 +16,8 @@ public class Smoke_test extends Base_page {
 	public void tests()
 	{
 		Home.initializeURL();
+		Home.Header_page();
+		
 	}
 	
 	
