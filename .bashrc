@@ -11,6 +11,9 @@ alias gc='git commit -m'
 #open file or folder with sublime text....
 alias sublime='"C:/Program Files/Sublime Text 3/sublime_text.exe"'
 
+#open Eclips
+alias eclips='"C:\Users\Raj\Desktop\eclipse\eclipse.exe"'
+
 #color and directory
 PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\] : \[\033[01;34m\]\W\[\033[00m\] \$ ';
 
