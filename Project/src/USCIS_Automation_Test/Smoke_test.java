@@ -21,7 +21,11 @@ public class Smoke_test extends Base_page {
 	}
 	
 	
-	
+ public void test1()	
+ {
+ Home.i()
+ 
+ }
 	
 	
 	
